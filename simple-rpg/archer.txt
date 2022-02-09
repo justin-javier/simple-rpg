@@ -1,0 +1,2 @@
+150
+Shoot Arrow,Throw Knife,Barrage

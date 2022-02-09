@@ -1,0 +1,2 @@
+125
+Fireblast,Icestorm,Explode
